@@ -5,8 +5,11 @@ Project Overview
 This project explores several techniques to build a song recommendation system. The methodologies implemented include:
 
 Popularity-Based Recommendation
+
 Item-Item Collaborative Filtering
+
 User-Item Collaborative Filtering
+
 Bleeding Edge: Deep Learning Approach
 
 
