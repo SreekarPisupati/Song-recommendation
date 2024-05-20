@@ -43,7 +43,7 @@ Effective when user data is available.
 Can provide personalized recommendations.
 
 
-4. Bleeding Edge: Deep Learning Approach
+4. Bleeding Edge: Deep Learning Approach.
 This approach leverages deep learning techniques to recommend songs. It involves training neural networks on user-song interaction data to capture complex patterns and preferences.
 
 Features:
@@ -56,8 +56,5 @@ Can incorporate various features such as user demographics, song metadata, and l
 We hope this project provides a comprehensive understanding of various song recommendation techniques and serves as a valuable resource for building your own recommendation systems. Happy coding!
 
 Contact:
-
-
-GitHub: SreekarPisupati
 
 Email: psreekar24@gmail.com
